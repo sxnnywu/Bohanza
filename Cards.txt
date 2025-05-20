@@ -1,0 +1,7 @@
+Black-eyed,10,2,4,5,6,images/Black-eyed.png
+Blue,20,4,6,8,10,images/Blue.png
+Chili,18,3,6,8,9,images/Chili.png
+Green,14,3,5,6,7,images/Green.png
+Red,8,2,3,4,5,images/Red.png
+Soy,12,2,4,6,7,images/Soy.png
+Stink,16,3,5,7,8,images/Stink.png
